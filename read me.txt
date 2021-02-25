@@ -1,0 +1,7 @@
+1# 
+flask bolon sqlalchemy suulgaj baij ajilna
+	pip install flask
+	pip install sqlalchemy
+	pip install flask-cors
+
+2# ajiluulahdaa yg pythongiin file ajiluulj baiga ym shig ajiluulna ehleh heseg start.py
